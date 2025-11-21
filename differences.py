@@ -117,7 +117,7 @@ def has_dupes(arr):
     return False  # no duplicates discovered
 
 
-# Optional: some quick tests when you run this file directly
+#  some quick tests that run this file directly
 if __name__ == "__main__":  # only run these examples when invoked as a script, not when imported
     print("Name test:", get_name())  # demonstrate get_name
     reverse_it()  # show reversal
